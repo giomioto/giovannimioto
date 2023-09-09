@@ -386,5 +386,6 @@ renders as
 {{< icon name="terminal" pack="fas" >}} Terminal  
 {{< icon name="python" pack="fab" >}} Python  
 {{< icon name="r-project" pack="fab" >}} R
+{{< icon name="square-js" pack="fab" >}} JavaScript
 
 ### Did you find this page helpful? Consider sharing it 🙌

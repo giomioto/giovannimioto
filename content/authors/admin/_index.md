@@ -33,15 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Management Technician
+      institution: Federal Institute of Paraná
+      year: 2020-2022
+    - course: Information Systems
+      institution: Technological Federal University of Paraná
+      year: 2023-Current
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,13 +53,13 @@ social:
     link: https://github.com/giomioto
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/giovanni-mioto-a22b91210/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  - icon: lattes
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: http://lattes.cnpq.br/1730367283869566
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,5 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Giovanni Mioto is a student of Information Systems at the Technological Federal University of Paraná. He is a member of a project group at Federal University of Paraná, which develops data extraction and plotting systems, but he also worked as mobile and web application developer at Federal Institute of Paraná.
+
 {style="text-align: justify;"}
